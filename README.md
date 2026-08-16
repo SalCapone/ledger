@@ -6,7 +6,7 @@ events; aggregates are rebuilt by replaying their stream; optimistic
 concurrency stops two writers from silently clobbering each other.
 
 ```
-go get github.com/salribaudo/ledger
+go get github.com/salcapone/ledger
 ```
 
 ## Why event sourcing for financial systems
